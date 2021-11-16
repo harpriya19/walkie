@@ -1,0 +1,32 @@
+body{
+    background-image: url(coloured-background-151kb-compressed.webp);
+}
+#logout{
+    font-size: 30px; 
+    float: right;
+    background-color:rgb(243, 62, 62);
+  
+}
+h1{
+    font-size: 40;
+    float: none;
+    color: rgb(149, 11, 241);
+
+}
+h2{
+    
+    font-size: 40;
+    float: none;
+    color: rgb(149, 11, 241);
+}
+#roomname{
+    width: 500;
+    height: 30;
+    border: plum;
+    border-style: ridge;
+}
+#addroom{
+    font-size: 30px;
+    background-color:rgb(231, 135, 231);
+    color: aliceblue;
+}
